@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2025-07-16 12:03:30",
+        "target_url": "https://httpbin.org/forms/post",
+        "results": [
+            "[+] Potential XSS detected in https://httpbin.org/post"
+        ]
+    }
+]
